@@ -1,0 +1,36 @@
+#inline{
+    display:inline;
+    
+    
+}
+#color{
+    color: white;
+    
+}
+#img-responsive{
+    height: 500px;
+    border-top: 50px;
+   
+}
+#img-respon{
+    height:500px;
+    padding-left: 50px;
+    border-top: 50px;
+    
+    
+}
+#img-resp{
+    height:500px;
+    padding-left: 150px;
+    border-top: 50px;
+} 
+#pic-c{
+    height: 300px;
+    width: 120px;
+}
+#center{
+    padding-bottom: 40px;
+}
+#centers{
+    padding-top: 70px;
+}

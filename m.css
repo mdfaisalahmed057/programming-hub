@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+#text{
+    text-align:center;
+    padding-top: 20px;
+    text-transform:uppercase
+}
+
+#center{
+  padding-left: 1000px;
+}
+#size{
+  padding-right: 100px;
+  height: 50px;
+}
